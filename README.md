@@ -79,7 +79,7 @@ A structured, data-rich Excel dashboard analyzing the complete **HBL PSL 2026 Pl
 
 ## 📌 Related Projects
 
-- 🏏 [PSL Cricket Analytics Dashboard](https://github.com/yourusername/PSL-Cricket-Analytics-Dashboard) — Interactive Streamlit web app analyzing ball-by-ball PSL data (2017–2025)
+- 🏏 [PSL Cricket Analytics Dashboard](https://github.com/ariesshadow/-PSL-Cricket-Analytics-Dashboard) — Interactive Streamlit web app analyzing ball-by-ball PSL data (2017–2025)
 
 ---
 
